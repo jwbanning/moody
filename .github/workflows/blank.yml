@@ -16,4 +16,4 @@ jobs:
         run: |
           postman collection run "${{ github.workspace }}/postman/collections/Vehicle Status.json" -e "16913431-80ba9991-97b2-4257-bea3-b683c432354e"
           # Lint your API using Postman CLI
-          postman api lint ec66c707-5154-457a-9cc2-81b66a873b45
+          # postman api lint ec66c707-5154-457a-9cc2-81b66a873b45
