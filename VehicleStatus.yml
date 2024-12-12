@@ -1,7 +1,7 @@
 ---
 openapi: 3.0.3
 info:
-  title: Vehicle Status Hello world.
+  title: Vehicle Status Hello world hello
   version: 1.0.0
   contact: {}
 servers:
